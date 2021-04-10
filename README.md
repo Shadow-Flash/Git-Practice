@@ -64,5 +64,5 @@ Everything is being practiced for manual doing!
     > This will show the difference between from current branch and main.
 * `git log`
     > This will show all the commits that has been made yet.
-* `git reset --hard origin main
+* `git reset --hard origin main`
     > It will reset all the changes that has been made yet from origin.
